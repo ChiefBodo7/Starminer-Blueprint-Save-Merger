@@ -3,7 +3,7 @@ The Starminer Blueprint Save Merger can merge the selected blueprints from anoth
 
 WHAT IT DOES
 
-- Automatically looks for your live base save at:
+- Automatically looks for your Blueprint save at:
   %LOCALAPPDATA%\ILLSpace\Saved\SaveGames\Blueprints.sav
 
 - Loads that file as the default base when the app opens.
